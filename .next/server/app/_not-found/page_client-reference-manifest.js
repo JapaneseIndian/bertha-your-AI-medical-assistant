@@ -1,0 +1,1 @@
+globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/_not-found/page"]={"moduleLoading":{"prefix":"/_next/","crossOrigin":null},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"C:\\Users\\thaku\\Downloads\\arya-bolt-2\\":[],"C:\\Users\\thaku\\Downloads\\arya-bolt-2\\app\\_not-found\\page":[]}}
